@@ -3,3 +3,4 @@ simon
 dominion
 obuobi 
 gifty
+manager
