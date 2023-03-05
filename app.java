@@ -4,3 +4,4 @@ java applications
 NodeJS applications
 Python applications
 web applications
+bug removed
